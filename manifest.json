@@ -1,0 +1,15 @@
+{
+  "name": "算术练习",
+  "short_name": "算术",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "image.png",
+      "sizes": "960x960",
+      "type": "image/png"
+    }
+  ]
+}
